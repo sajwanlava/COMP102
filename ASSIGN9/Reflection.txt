@@ -1,0 +1,20 @@
+Questions for reflection.
+=========================
+
+
+1. What is one error, bug, or exception that you encountered this week? How did
+you go about fixing it? Can you think of a way of making it easier to fix next
+time?
+My images would merge, but it is only shown after making the image darker or contrasting it.
+Therefore I didn't really fix it and was wondering whether there was a way to fix it?
+
+2. What is one thing that you did in this assignment that is similar to previous
+ones (for assignment one this can include work you did before starting at Vic)?
+Was it easier this time? How did you approach doing it?
+It was similar to the basic concept of normal Arrays, however with a 2D element to it. Therefore
+it was fairly okay to understand the concepts to this type of coding. I approached it as I would
+a normal array with another layer added on. 
+
+3. If you have any other thoughts about the assignment please write them here.
+While understanding how 2D arrays worked was fairly straightforward, I found this assignment in
+general very very hard and difficult to get past the core of it. 
