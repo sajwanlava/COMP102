@@ -1,0 +1,22 @@
+Questions for reflection.
+=========================
+
+
+1. What is one error, bug, or exception that you encountered this week? How did
+you go about fixing it? Can you think of a way of making it easier to fix next
+time?
+Couldn't get the core 3 working initially and had to change the word.equals to become word.contains for it to work. 
+Next time I'll consider this syntax earlier for my code to work. 
+However there is a bug still in that code and it bothers me and I can't seem to find where I'm going wrong.
+
+2. What is one thing that you did in this assignment that is similar to previous
+ones (for assignment one this can include work you did before starting at Vic)?
+Was it easier this time? How did you approach doing it?
+Used next methods similar to the earlier assignments. It was easier to approach and use this time because
+I know which type of next method goes with which type of data being inputted. I also had more practice
+in this syntax due to the earlier assignments which helped me a lot this time. 
+
+3. If you have any other thoughts about the assignment please write them here.
+If you have any idea how to fix my weird code in core 3 of classtimes please help. It occurs when I type a room that doesn't
+exist, but if the letters are similar to another word in the file it will print out all those. I think it's to do with the 
+word.contains, however if I use word.equals my code completely doesn't work.
