@@ -1,0 +1,24 @@
+Questions for reflection.
+=========================
+
+
+1. What is one error, bug, or exception that you encountered this week? How did
+you go about fixing it? Can you think of a way of making it easier to fix next
+time?
+For a while I couldn't get the shape classes to connect to the shape implements class because I had
+been missing the "implements shape" bit on the public class shapeName{. The move wasn't working properly and
+it was moving the shapes to a random position off the window and therefore to fix it I added a simple if statement
+which checked that if the click was on the shape it would then move to the selected position by minusing the pressedX from 
+the changeX.
+
+2. What is one thing that you did in this assignment that is similar to previous
+ones (for assignment one this can include work you did before starting at Vic)?
+Was it easier this time? How did you approach doing it?
+There was a lot more practice with arrayLists which I appreciated. It was much easier this time round
+as most the assignment was based on this syntax so I got a lot of practice. I approached this assignment using my knowlege from the 
+last assignment to help with arrayLists and using assignment 6 - the miniPaint. 
+
+3. If you have any other thoughts about the assignment please write them here.
+I worked on this with Rachel Salazar whom is also in COMP102. I also felt this was quite a hard assignment to start,
+which is to be expected with the last assignment of the course. However, when I did pas the initial few methods in the main miniDraw class
+the assignment became much more doable and easier to approach. 
