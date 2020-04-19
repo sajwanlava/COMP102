@@ -1,0 +1,22 @@
+Questions for reflection.
+=========================
+
+
+1. What is one error, bug, or exception that you encountered this week? How did
+you go about fixing it? Can you think of a way of making it easier to fix next
+time?
+In my frogSnakeGame program, I have direction=dir in my frog method. However in the rest
+of the program, I had been typing dir, instead of direction and this took me ages to 
+figure out why it was throwing an error. To fix this next time I have to think about the 
+simple syntax errors instead of complex ones first in order to check that my basic coding
+is correct.
+
+2. What is one thing that you did in this assignment that is similar to previous
+ones (for assignment one this can include work you did before starting at Vic)?
+Was it easier this time? How did you approach doing it?
+Used this. syntax much like the tricolourflagdrawer. This time it was easier
+because I knew how it worked and I was confident with it.
+
+3. If you have any other thoughts about the assignment please write them here.
+Even though we had forever to do it I ran out of time so my submission code game is
+weak this week. I'm sorry.
