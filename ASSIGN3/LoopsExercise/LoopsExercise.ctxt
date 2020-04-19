@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=max
+comment0.target=void\ sumOneToN(int)
+comment0.text=\ Add\ up\ all\ the\ integers\ from\ 1\ to\ n\ (using\ a\ loop)\ and\ prints\ the\ sum.\r\n\ \ \ \ For\ example,\ if\ the\ argument\ is\ 10,\ it\ should\ add\ up\r\n\ \ \ \ 1+2+3+4+5+6+7+8+9+10\ and\ print\ out\ the\ sum\:\ 55\r\n
+comment1.params=
+comment1.target=void\ squareNumbers()
+comment1.text=\ Tell\ the\ user\ to\ enter\ a\ sequence\ of\ numbers,\ ending\ with\ the\ word\ 'done'\r\n\ then\ read\ all\ the\ numbers\ in\ a\ loop,\ printing\ out\ the\ square\ of\ each\ number\ as\ it\ goes.\r\n\ eg,\ if\ they\ enter\ 4\ 11\ 20\ 9\ done\r\n\ it\ should\ print\ \ \ 16\ 121\ 400\ 81\ \ \ \ (either\ on\ one\ line\ or\ on\ separate\ lines)\r\n
+comment2.params=
+comment2.target=void\ countWords()
+comment2.text=\ Tell\ the\ user\ to\ enter\ a\ sentence,\ followed\ by\ the\ token\ \#\r\n\ then\ read\ all\ the\ tokens\ (words)\ and\ print\ out\ the\ number\ of\r\n\ words\ in\ the\ sentence.\r\n\ eg,\ if\ they\ enter\r\n\ I\ am\ happy\ today\ \#\r\n\ it\ should\ print\ out\r\n\ Sentence\ has\ 4\ words\r\n\ You\ should\ use\ a\ "while(true)"\ loop\ with\ a\ break,\ and\ the\ UI.next()\ method\r\n
+comment3.params=n
+comment3.target=void\ drawBubbles(int)
+comment3.text=\ Asks\ user\ for\ an\ integer,\ then\ draws\ that\ many\ blue\ bubbles\r\n\ in\ a\ vertical\ line.\r\n
+comment4.params=
+comment4.target=LoopsExercise()
+comment4.text=Constructor\:\ set\ up\ user\ interface
+numComments=5

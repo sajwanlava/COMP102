@@ -1,0 +1,20 @@
+Questions for reflection.
+=========================
+
+
+1. What is one error, bug, or exception that you encountered this week? How did
+you go about fixing it? Can you think of a way of making it easier to fix next
+time?
+I had an error with the completion horizontal lines for opening and closing prices in the stock analyser tool program.
+What I didn't realise was that I was getting the initial x parameter wrong as was looping through the while loop
+first and printing the last x value defined. To spot this mistake earlier next time I will specifically just
+focus on how the loop runs through each command and then look at the coding outside of the while.
+
+2. What is one thing that you did in this assignment that is similar to previous
+ones (for assignment one this can include work you did before starting at Vic)?
+Was it easier this time? How did you approach doing it?
+The UI draw methods were easier to use as similar things were drawn in the last symbol program. 
+However I had never used UI.drawString before so that was new.
+
+3. If you have any other thoughts about the assignment please write them here.
+It was a nice amount of challenging.
