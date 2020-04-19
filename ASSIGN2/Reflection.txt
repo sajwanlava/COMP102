@@ -1,0 +1,18 @@
+Questions for reflection.
+=========================
+
+
+1. What is one error, bug, or exception that you encountered this week? How did
+you go about fixing it? Can you think of a way of making it easier to fix next
+time?
+The pac man arc took me ages to input in the code as I didn't realise that the last coordinate actually
+stood for the angle of the arc. I fixed this by looking at the documentation. Next time I will access the 
+documentation faster.
+
+2. What is one thing that you did in this assignment that is similar to previous
+ones (for assignment one this can include work you did before starting at Vic)?
+Was it easier this time? How did you approach doing it?
+The user input was very similar to past things I had done and it was easier to do because I knew it.
+
+3. If you have any other thoughts about the assignment please write them here.
+Mitsubishi is so difficult.

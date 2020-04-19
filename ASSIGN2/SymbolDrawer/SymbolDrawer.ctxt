@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ belgiumFlag()
+comment0.text=\ The\ flag\ of\ Belgium\ has\ three\ vertical\ stripes;\r\n\ \ The\ left\ is\ black,\ the\ middle\ is\ yellow,\ and\ the\ right\ is\ red.\r\n\ \ The\ flag\ is\ 13/15\ as\ high\ as\ it\ is\ wide\ (ratio\ 13\:15).\r\n\ \ CORE\r\n
+comment1.params=
+comment1.target=void\ firstAidSign()
+comment1.text=\ The\ first\ aid\ sign\ consists\ of\ a\ green\ square\ with\ a\ big\ centred\ white\ cross\r\n\ \ CORE\r\n
+comment2.params=
+comment2.target=void\ palmyraFlag()
+comment2.text=\r\n\ \ The\ unofficial\ flag\ of\ Palmyra\ Atoll\ has\ three\ horizontal\ stripes\ with\ part\ of\ a\ yellow\ circle.\r\n\ \ The\ flag\ is\ 2/3\ as\ high\ as\ it\ is\ wide\ (ratio\ 2\:3).\r\n\ \ The\ top\ stripe\ is\ red\ and\ is\ 1/2\ of\ the\ height\ of\ the\ flag.\r\n\ \ The\ middle\ stripe\ is\ blue\ and\ is\ 7/20\ of\ the\ height\ of\ the\ flag.\r\n\ \ The\ bottom\ stripe\ is\ yellow\ and\ is\ 3/20\ of\ the\ height\ of\ the\ flag.\r\n\ \ The\ diameter\ of\ the\ yellow\ circle\ is\ 1/2\ of\ the\ width\ of\ the\ flag,\ \r\n\ \ \ \ \ \ and\ its\ top\ is\ slightly\ below\ the\ top\ of\ the\ flag.\r\n\ \ HINT\:\ think\ in\ which\ order\ to\ paint\ the\ different\ parts\ of\ the\ flag.\r\n\ \ CORE\r\n
+comment3.params=
+comment3.target=void\ uaeFlag()
+comment3.text=\r\n\ \ The\ flag\ of\ the\ United\ Arab\ Emirates\ is\ divided\ into\ four\ rectangular\ parts.\r\n\ \ The\ first\ red\ rectangle\ is\ the\ vertical\ band\ nearest\ to\ the\ mast,\ its\ length\ being\r\n\ \ equivalent\ to\ the\ height\ of\ the\ flag,\ while\ its\ width\ is\ one\ quarter\ of\ the\ length\ of\r\n\ \ the\ entire\ flag.\r\n\ \ The\ other\ three\ parts\ are\ three\ horizontal\ stripes\ of\ equal\ size.\r\n\ \ The\ top\ most\ is\ green,\ the\ middle\ is\ white\ and\ the\ lower\ is\ black.\r\n\ \ The\ flag\ is\ 1/2\ as\ high\ as\ it\ is\ wide\ (ratio\ 1\:2).\r\n\ \ COMPLETION\r\n
+comment4.params=
+comment4.target=void\ pacman()
+comment4.text=\ Pacman\r\n\ \ A\ red\ pacman\ facing\ up\ on\ a\ black\ background\ chasing\ yellow,\ green,\ and\ blue\ dots.\r\n\ \ COMPLETION\r\n
+comment5.params=
+comment5.target=void\ mitsubishiLogo()
+comment5.text=\ Mitsubishi\r\n\ \r\n\ \ CHALLENGE\r\n
+comment6.params=
+comment6.target=void\ koruFlag()
+comment6.text=\ The\ Koru\ flag\ belongs\ to\ the\ long\ list\ of\ new\ flags\ designs\r\n\ \ It\ has\ been\ designed\ by\ Sven\ Baker\ from\ Wellington\r\n\ \ The\ flag\ is\ 1/2\ as\ high\ as\ it\ is\ wide\ (ratio\ 1\:2).\r\n\ \ CHALLENGE\r\n
+comment7.params=
+comment7.target=SymbolDrawer()
+comment7.text=Constructor,\ sets\ up\ the\ user\ interface
+numComments=8
