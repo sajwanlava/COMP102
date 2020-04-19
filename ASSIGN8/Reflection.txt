@@ -1,0 +1,20 @@
+Questions for reflection.
+=========================
+
+
+1. What is one error, bug, or exception that you encountered this week? How did
+you go about fixing it? Can you think of a way of making it easier to fix next
+time?
+A terminal window was being thrown due to the move left method and I realised this was because I had
+a bit of code that I had made it so that it would try move the card to the left 
+even if the selected position was at 0. I added a simple if loop to avoid this. 
+
+2. What is one thing that you did in this assignment that is similar to previous
+ones (for assignment one this can include work you did before starting at Vic)?
+Was it easier this time? How did you approach doing it?
+First time doing array lists so not really something typically similar to previous
+assignments. However normal arrays are slightly the same however you can't add or 
+remove data on an array - it's set.
+
+3. If you have any other thoughts about the assignment please write them here.
+It was a bit tricky. The drawHand method took me days. 

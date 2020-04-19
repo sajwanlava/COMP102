@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Card()
+comment0.text=Construct\ a\ new\ Card\ object\ with\ a\ random\ rank\ and\ suit
+comment1.params=
+comment1.target=java.lang.String\ getSuit()
+comment1.text=\r\n\ Return\ the\ suit\ of\ the\ card\r\n
+comment2.params=
+comment2.target=int\ getRank()
+comment2.text=\r\n\ Return\ the\ rank\ of\ the\ card\r\n
+comment3.params=
+comment3.target=java.lang.String\ getImage()
+comment3.text=\r\n\ Return\ the\ name\ of\ the\ image\ of\ the\ card\r\n
+comment4.params=x\ y
+comment4.target=void\ draw(double,\ double)
+comment4.text=\r\n\ Draw\ the\ card\ at\ the\ position\ x,\ y\r\n
+numComments=5
