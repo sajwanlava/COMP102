@@ -1,0 +1,16 @@
+Questions for reflection.
+=========================
+
+
+1. What is one error, bug, or exception that you encountered this week? How did
+you go about fixing it? Can you think of a way of making it easier to fix next
+time?
+I didn't encounter anything luckily. 
+
+2. What is one thing that you did in this assignment that is similar to previous
+ones (for assignment one this can include work you did before starting at Vic)?
+Was it easier this time? How did you approach doing it?
+I came into this assignment knowing a bit more that last tri. It was easier and I read the tasks slower to have enough time to absorb them.
+
+3. If you have any other thoughts about the assignment please write them here.
+Not at this time thanks.
