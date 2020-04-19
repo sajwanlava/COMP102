@@ -1,0 +1,21 @@
+Questions for reflection.
+=========================
+
+
+1. What is one error, bug, or exception that you encountered this week? How did
+you go about fixing it? Can you think of a way of making it easier to fix next
+time?
+In the second core I initialised the row equal to num in the for loop and then wrote that row would be row--.
+However this didn't work for ages because I didn't set num as decreasing either. To make this easier next time
+I shall write out my code on paper to easily match the variables and understand from a different view what my code
+is doing.
+
+2. What is one thing that you did in this assignment that is similar to previous
+ones (for assignment one this can include work you did before starting at Vic)?
+Was it easier this time? How did you approach doing it?
+Had a lot of difficulties with the second core, but to make it easier for me to understand I
+decided to use a nested for loop. It was easier this time because I actually understood what I 
+was doing.
+
+3. If you have any other thoughts about the assignment please write them here.
+Nope.
