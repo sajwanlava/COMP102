@@ -1,0 +1,21 @@
+Questions for reflection.
+=========================
+
+
+1. What is one error, bug, or exception that you encountered this week? How did
+you go about fixing it? Can you think of a way of making it easier to fix next
+time?
+The terminal error was coming up even though I did have a try-catch in my code
+and it said the error was because of that. However this was not the case and it
+ended up being an error in how people were choosing the text file to open.
+
+2. What is one thing that you did in this assignment that is similar to previous
+ones (for assignment one this can include work you did before starting at Vic)?
+Was it easier this time? How did you approach doing it?
+I was much more confident while using scanners as we have used it in earlier assignments.
+Therefore when I approached that we had to scan the files and store as an array, even though the
+array part was new, I was able to confidently work through the scanners. 
+
+3. If you have any other thoughts about the assignment please write them here.
+I think my completion1 is perhaps throwing a terminal error and I don't know why.
+Also I got really stuck on drawing the histogram. 
